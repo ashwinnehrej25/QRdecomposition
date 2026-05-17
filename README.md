@@ -65,13 +65,16 @@ print(f"{max_sum:.2f}")
 ```
 
 ## Output
-```
+1-Norm of a Matrix
 <img width="1277" height="378" alt="image" src="https://github.com/user-attachments/assets/b440435a-3ca7-46d9-af92-a959f14970aa" />
+2-Norm of a Matrix
+<img width="1308" height="459" alt="image" src="https://github.com/user-attachments/assets/9aaadc0a-eb69-4bde-9b77-208fe7e8028d" />
+Infinity Norm of a Matrix
 
 <img width="1285" height="369" alt="image" src="https://github.com/user-attachments/assets/486adbe2-c390-4989-bf2e-ffa95f249033" />
 
 
-```
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
